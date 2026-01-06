@@ -65,5 +65,5 @@ https://github.com/user-attachments/assets/a01b4841-321e-4eee-bd1f-06c7b277462d
 
 ### 관련 자료
 
-- [최종 발표 영상]
+- [최종 발표 영상](https://youtu.be/Nq0255Y1gmg)
 - [창의설계 경진대회 발표 포스터](https://github.com/user-attachments/files/24443065/poster_AIMUSE_.pdf)
