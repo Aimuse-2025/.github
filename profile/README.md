@@ -60,3 +60,10 @@ https://github.com/user-attachments/assets/a01b4841-321e-4eee-bd1f-06c7b277462d
 | 팀원 | 김태환 | 기획, AI |
 | 팀원 | 최세윤 | 기획, Backend |
 | 팀원 | 김영도 | 기획, Frontend |
+
+<br>
+
+### 관련 자료
+
+- [최종 발표 영상]
+- [창의설계 경진대회 발표 포스터](https://github.com/user-attachments/files/24443065/poster_AIMUSE_.pdf)
